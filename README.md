@@ -6,4 +6,4 @@ Note: This line was added remotely by a brilliant teammate working from another 
 ** pro git tips
 alwais
 use git
-
+# Git & GitHub Collaboration Course
